@@ -15,4 +15,4 @@ If you are opening the site in mobile phone, Please open in Desktop Mode
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request.
+Contributions are welcome! Please feel free to submit a pull request..
